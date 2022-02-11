@@ -1,32 +1,22 @@
 [
     {
-    "Name":"Juan Dela Cruz",
+    "Name":"Harold Wendell Barredo",
     "Gender":"Male",
     "Age":"19 years old.",
-    "Contact No.":"09267839281",
-    "Email":"juandelacruz09@gmail.com",
-    "Career Objective":"               Seeking a challenging career with a progressive organization that provides an opporunity to capitalize my technical skills and abilities in the field of Computer Engineer.",
-    "Special Skills":[
-        {
-            "Skill1":"Ability to be a Team Player",
-            "Skill2":"Technical Skills",
-            "Skill3":"Communication Skills",
-            "Skill4":"Decision-Making and Troubleshooting Skills"
-        }
-    ],
-    "Education":[
-        {
-            "School":"Lopez National Comprehensive High School",
-            "Year":"2015-2021"
-        },
-        {
-            "Course":"Bachelor os Science in Computer Engineering",
-            "School":"Polytechnic University of the Philippines Sta. Mesa Manila"
-        }
-    ],
-    "Declaration":[
-        {"lastpart":"I herby declare that all the information given above is true to the best of my knowledge."}
-    ],
-    "End":"Done"
+    "Contact No.":"0999-818-9225",
+    "Email":"smileeyyy_H2002@gmail.com",
+    "Career Objective":"Seeking a challenging career with a progressive organization that provides an opporunity to capitalize my technical skills and abilities in the field of Computer Engineer.",
+    "Special Skill1":"Ability to be a Team Player",
+    "Special Skill2":"Technical Skills",
+    "Special Skill3":"Communication Skills",
+    "Special Skill4":"Python Pragramming",
+    "Education1.1":"Lopez National Comprehensive High School",
+    "Education1.2":"STEM, Graduated with High Honors",
+    "Education1.3":"(2015-2021)",
+    "Education2.1":"Bachelor of Science in Computer Engineering",
+    "Education2.2":"Polytechnic University of the Philippines Sta. Mesa Manila",
+    "Education2.3":"(2021-Present)",
+    "Declaration":"I herby declare that all the information given above is true to the best of my knowledge.",
+    "Date":"Date"
     }
 ]
