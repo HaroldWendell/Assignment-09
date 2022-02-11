@@ -21,5 +21,9 @@ for line in info:
     pdf.cell(80, 28, txt = "Age: " + line['Age'], ln = 1, align ="L")
     pdf.cell(80, -15, txt = "Contact No. " + line['Contact No.'], ln = 1, align ="L")
     pdf.cell(80, 28, txt = "Email: " + line['Email'], ln = 1, align ="L")
-
+    pdf.set_font("Arial", 'B', size = 17)
+    pdf.cell(80, 25, txt = "Career Objective", ln = 1, align = "L")
+    pdf.set_font("Arial", '', size = 14)
+    pdf.multi_cell(0, 5, line['Career Objective'])
+    
 pdf.output("BARREDO_HAROLD_WENDELL.pdf")
