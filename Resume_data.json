@@ -1,0 +1,34 @@
+[
+    {
+    "Name":"Juan Dela Cruz",
+    "Gender":"Male",
+    "Age":"19 years old.",
+    "Contact No.":"09267839281",
+    "Email":"juandelacruz09@gmail.com",
+    "Career Objective":[
+            {"Objt":"Seeking a challenging career with a progressive organization that provides an opporunity to capitalize my technical skills and abilities in the field of Computer Engineer."}
+        ],
+    "Special Skills":[
+        {
+            "Skill1":"Ability to be a Team Player",
+            "Skill2":"Technical Skills",
+            "Skill3":"Communication Skills",
+            "Skill4":"Decision-Making and Troubleshooting Skills"
+        }
+    ],
+    "Education":[
+        {
+            "School":"Lopez National Comprehensive High School",
+            "Year":"2015-2021"
+        },
+        {
+            "Course":"Bachelor os Science in Computer Engineering",
+            "School":"Polytechnic University of the Philippines Sta. Mesa Manila"
+        }
+    ],
+    "Declaration":[
+        {"lastpart":"I herby declare that all the information given above is true to the best of my knowledge."}
+    ],
+    "End":"Done"
+    }
+]
